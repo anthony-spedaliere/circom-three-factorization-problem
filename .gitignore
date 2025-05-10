@@ -22,4 +22,7 @@ Thumbs.db
 .env.local
 
 # Logs
-*.log 
+*.log
+
+# Trusted setup files
+trusted-setup/ 
