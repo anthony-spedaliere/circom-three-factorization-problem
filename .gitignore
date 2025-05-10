@@ -25,4 +25,7 @@ Thumbs.db
 *.log
 
 # Trusted setup files
-trusted-setup/ 
+trusted-setup/
+
+# Groth16 key files
+*.zkey 
