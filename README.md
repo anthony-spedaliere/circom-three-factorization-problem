@@ -13,7 +13,7 @@ x4 = x1 * x2 * x3
 where:
 
 - x1, x2, x3 are the input factors
-- x4 is the input product to verify
+- x4 is the output product to verify
 
 ## Features
 
@@ -28,12 +28,15 @@ where:
 
 ## Usage
 
-The circuit takes four inputs:
+The circuit takes three inputs:
 
 - x1: First factor
 - x2: Second factor
 - x3: Third factor
-- x4: Product to verify
+
+And produces one output:
+
+- x4: Product of the three factors
 
 The circuit will verify that x4 equals the product of x1, x2, and x3.
 
