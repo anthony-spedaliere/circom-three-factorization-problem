@@ -28,4 +28,7 @@ Thumbs.db
 trusted-setup/
 
 # Groth16 key files
-*.zkey 
+*.zkey
+
+# Generated JavaScript files
+threeFactorization_js/ 
