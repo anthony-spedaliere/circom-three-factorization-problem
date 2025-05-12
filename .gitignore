@@ -1,14 +1,6 @@
 # Dependencies
 node_modules/
 
-# Circom compilation artifacts
-*.r1cs
-*.wasm
-*.sym
-*.wtns
-*.zkey
-*.json
-
 # IDE files
 .vscode/
 .idea/
@@ -23,12 +15,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Trusted setup files
-trusted-setup/
-
-# Groth16 key files
-*.zkey
-
-# Generated JavaScript files
-threeFactorization_js/ 

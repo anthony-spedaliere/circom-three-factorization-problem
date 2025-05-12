@@ -1,0 +1,9 @@
+{
+  "name": "three-factorization-problem-circuit",
+  "version": "1.0.0",
+  "description": "Three facorization problem circuit",
+  "main": "main.circom",
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
