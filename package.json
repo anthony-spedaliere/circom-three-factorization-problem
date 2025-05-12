@@ -4,6 +4,7 @@
   "description": "Three facorization problem circuit",
   "main": "main.circom",
   "dependencies": {
-    "circomlib": "^2.0.5"
+    "circomlib": "^2.0.5",
+    "dotenv": "^16.5.0"
   }
 }
